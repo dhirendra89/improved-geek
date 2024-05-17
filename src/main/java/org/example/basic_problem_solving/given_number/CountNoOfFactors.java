@@ -1,4 +1,4 @@
-package org.example.basic_problem_solving;
+package org.example.basic_problem_solving.given_number;
 
 public class CountNoOfFactors {
 
