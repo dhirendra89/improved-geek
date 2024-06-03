@@ -2,7 +2,7 @@ package org.example.basic_problem_solving.z4_matrix;
 
 import java.util.Arrays;
 
-public class TransposeMatrix {
+public class TransposeSquareMatrix {
 
     // statement:
     // Given a square matrix, find transpose matrix
